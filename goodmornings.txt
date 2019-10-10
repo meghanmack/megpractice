@@ -1,0 +1,28 @@
+Class: Shirt
+
+Attributes:
+color (string)
+size (string)
+madeOfCotton (boolean)
+logo (boolean)
+words (array)
+
+Methods:
+changeColor
+changeSize
+addWords
+removeLogo
+
+Object: Steamboat Shirt
+
+Attributes:
+color: "Mint green"
+size: "Small"
+madeOfCotton: true
+logo: true
+words: ["Steamboat", "Colorado", "Visit"]
+
+Methods:
+
+changeColor: "Blue"
+changeSize: "Medium"
